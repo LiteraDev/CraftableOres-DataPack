@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "sss",
+        "scs",
+        "sss"
+    ],
+    "key": {
+        "c": {
+            "item": "minecraft:gold_ingot"
+        },
+        "s": {
+            "item": "minecraft:netherrack"
+        }
+    },
+    "result": {
+        "item": "minecraft:nether_gold_ore",
+        "count": 1
+    }
+}

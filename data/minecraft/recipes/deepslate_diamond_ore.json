@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "scs",
+        "sss",
+        "csc"
+    ],
+    "key": {
+        "c": {
+            "item": "minecraft:diamond"
+        },
+        "s": {
+            "item": "minecraft:deepslate"
+        }
+    },
+    "result": {
+        "item": "minecraft:deepslate_diamond_ore",
+        "count": 1
+    }
+}
