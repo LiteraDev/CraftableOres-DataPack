@@ -1,6 +1,6 @@
-# Craftable Ores Datapack for Minecraft 1.19
+# Craftable Ores Data Pack for Minecraft
 
-This Datapack adds crafting recipes that allows players to craft back ore blocks.
+This Data Pack adds crafting recipes that allows players to craft back ore blocks.
 
 Ores included:
   - Overworld stone ores.
