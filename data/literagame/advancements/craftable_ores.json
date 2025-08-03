@@ -1,29 +1,22 @@
 {
     "display": {
-        "title": {
-            "text": "Craftable Ores"
-        },
+        "title": "Craftable Ores v.1.0.1",
         "description": {
             "text": "You can now craft ores.",
             "color": "gold"
         },
         "icon": {
-            "item": "minecraft:diamond_ore"
+            "id": "minecraft:deepslate_diamond_ore"
         },
         "frame": "task",
         "show_toast": true,
         "announce_to_chat": false,
         "hidden": false
     },
+    "parent": "literagame:crafting",
     "criteria": {
         "tick": {
             "trigger": "minecraft:tick"
         }
-    },
-    "requirements": [
-        [
-            "tick"
-        ]
-    ],
-    "parent": "literagame:root"
+    }
 }
