@@ -1,20 +1,18 @@
 {
     "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "redstone_ore",
     "pattern": [
         "ccc",
         "sss",
         "ccc"
     ],
     "key": {
-        "c": {
-            "item": "minecraft:redstone"
-        },
-        "s": {
-            "item": "minecraft:stone"
-        }
+        "c": "minecraft:redstone",
+        "s": "minecraft:stone"
     },
     "result": {
-        "item": "minecraft:redstone_ore",
+        "id": "minecraft:redstone_ore",
         "count": 1
     }
 }

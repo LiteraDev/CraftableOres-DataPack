@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "redstone_ore",
+    "pattern": [
+        "ccc",
+        "sss",
+        "ccc"
+    ],
+    "key": {
+        "c": "minecraft:redstone",
+        "s": "minecraft:deepslate"
+    },
+    "result": {
+        "id": "minecraft:deepslate_redstone_ore",
+        "count": 1
+    }
+}

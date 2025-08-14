@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "lapis_ore",
+    "pattern": [
+        "lsl",
+        "scs",
+        "lsl"
+    ],
+    "key": {
+        "c": "minecraft:lapis_block",
+        "l": "minecraft:lapis_lazuli",
+        "s": "minecraft:deepslate"
+    },
+    "result": {
+        "id": "minecraft:deepslate_lapis_ore",
+        "count": 1
+    }
+}

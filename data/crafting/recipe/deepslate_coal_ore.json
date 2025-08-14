@@ -1,20 +1,18 @@
 {
     "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "coal_ore",
     "pattern": [
         "csc",
         "sss",
         "csc"
     ],
     "key": {
-        "c": {
-            "item": "minecraft:iron_ingot"
-        },
-        "s": {
-            "item": "minecraft:stone"
-        }
+        "c": "minecraft:coal",
+        "s": "minecraft:deepslate"
     },
     "result": {
-        "item": "minecraft:iron_ore",
+        "id": "minecraft:deepslate_coal_ore",
         "count": 1
     }
 }

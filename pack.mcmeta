@@ -1,6 +1,12 @@
 {
 	"pack": {
-		"pack_format": 15,
-		"description": [{"text":"Craftable Ores","color":"dark_blue"},{"text":" by LiteraGame","color":"blue"}]
+		"description": [{"text":"Craftable Ores 1.2","color":"dark_blue"},{"text":" by LiteraGame","color":"blue"}],
+		"pack_format": 83,
+		"min_format": 71,
+   		"max_format": 83,
+    	"supported_formats": {
+    		"min_inclusive": 71,
+    		"max_inclusive": 83
+		}
 	}
 }

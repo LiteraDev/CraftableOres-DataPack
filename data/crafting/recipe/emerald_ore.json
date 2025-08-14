@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "emerald_ore",
+    "pattern": [
+        "lsl",
+        "scs",
+        "lsl"
+    ],
+    "key": {
+        "c": "minecraft:emerald_block",
+        "l": "minecraft:emerald",
+        "s": "minecraft:stone"
+    },
+    "result": {
+        "id": "minecraft:emerald_ore",
+        "count": 1
+    }
+}

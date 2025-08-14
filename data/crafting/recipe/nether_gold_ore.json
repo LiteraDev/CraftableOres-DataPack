@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "pattern": [
+        "sss",
+        "scs",
+        "sss"
+    ],
+    "key": {
+        "c": "minecraft:gold_ingot",
+        "s": "minecraft:netherrack"
+    },
+    "result": {
+        "id": "minecraft:nether_gold_ore",
+        "count": 1
+    }
+}

@@ -1,20 +1,17 @@
 {
     "type": "minecraft:crafting_shaped",
+    "category": "building",
     "pattern": [
         "csc",
         "sss",
         "csc"
     ],
     "key": {
-        "c": {
-            "item": "minecraft:coal"
-        },
-        "s": {
-            "item": "minecraft:stone"
-        }
+        "c": "minecraft:quartz",
+        "s": "minecraft:netherrack"
     },
     "result": {
-        "item": "minecraft:coal_ore",
+        "id": "minecraft:nether_quartz_ore",
         "count": 1
     }
 }

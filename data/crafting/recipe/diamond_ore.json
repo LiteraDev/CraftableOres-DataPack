@@ -1,20 +1,18 @@
 {
     "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "diamond_ore",
     "pattern": [
         "scs",
         "sss",
         "csc"
     ],
     "key": {
-        "c": {
-            "item": "minecraft:diamond"
-        },
-        "s": {
-            "item": "minecraft:stone"
-        }
+        "c": "minecraft:diamond",
+        "s": "minecraft:stone"
     },
     "result": {
-        "item": "minecraft:diamond_ore",
+        "id": "minecraft:diamond_ore",
         "count": 1
     }
 }
